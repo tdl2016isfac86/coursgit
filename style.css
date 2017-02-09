@@ -2,3 +2,6 @@ body{
 	background-color: #000000;
 	color: #FFF;
 }
+img {
+	border-radius: 5 px;
+}
