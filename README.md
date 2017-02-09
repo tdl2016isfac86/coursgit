@@ -1,6 +1,6 @@
 # coursgit
 ## C'est quoi ce truc ?
-Boujour, je suis le fichier README
+Bijour, je suis le fichier README
 
 Voici une liste de choses qui viennent :
 - Quelqu'un va modifier le fichier README.md après Djyp
